@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1606605606 source:c:\users\burakgulsen\documents\codeblocks\odev1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1606668024 source:c:\users\burakgulsen\desktop\odev1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
+1606679910 source:c:\users\burakgulsen\desktop\new folder\new folder\odev1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
